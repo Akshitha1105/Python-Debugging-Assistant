@@ -50,9 +50,14 @@ No external APIs. No paid tools.
 ## 📁 Project Structurepython-debugging-assistant/
 │
 ├── app.py # Streamlit UI
+
 ├── executor.py # Executes code and manages tracing
+
 ├── tracer.py # Execution tracing (core logic)
+
 ├── error_analyzer.py # Maps errors to explanations
+
 ├── error_rules.py # Error causes and fixes
+
 ├── requirements.txt
 
