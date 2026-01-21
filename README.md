@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Python Debugging Assistant
+# AI-Powered Python Debugging Assistant
 
 An intelligent developer-focused tool that analyzes Python code, captures runtime errors with execution context, and explains bugs in clear, human-readable language along with fix suggestions.
 
